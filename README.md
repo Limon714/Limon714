@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Limon Islam</h1>
-<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
+<h3 align="center">A passionate React JS Developer from Bangladesh</h3>
 <img
   align="center"
   width="400px"
