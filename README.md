@@ -192,10 +192,3 @@ JS, React JS, NODE, PHP, LARAVEL** - 📫 How to reach me **limon4u714@gmail.com
 </p>
 <br /><br />
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=limon714&show_icons=true&locale=en&layout=compact"
-    alt="limon714"
-  />
-</p>
