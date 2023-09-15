@@ -43,7 +43,7 @@ JS, React JS, NODE, PHP, LARAVEL** - 📫 How to reach me **limon4u714@gmail.com
   </a>
    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://www.nextontop.com/assets/img/services/web/expressjs.svg"
       alt="express"
       width="40"
       height="40"
