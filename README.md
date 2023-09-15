@@ -92,7 +92,15 @@ JS, React JS, NODE, PHP, LARAVEL** - 📫 How to reach me **limon4u714@gmail.com
       height="40"
     />
   </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"
+      alt="Laravel"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
       alt="vuejs"
