@@ -45,8 +45,8 @@ JS, React JS, NODE, PHP, LARAVEL** - 📫 How to reach me **limon4u714@gmail.com
     <img
       src="https://www.nextontop.com/assets/img/services/web/expressjs.svg"
       alt="express"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
   </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
