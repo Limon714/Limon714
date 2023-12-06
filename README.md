@@ -20,6 +20,8 @@ JS, React JS, NODE, PHP, LARAVEL** - 📫 How to reach me **limon4u714@gmail.com
 
 <hr>
 <h2>Skills</h2>
+
+<span><img src='https://img.shields.io/badge/PHP-007ACC?&style=for-the-badge&logo=php&logoColor=white'></img></span>
 <span><img src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'></img></<span>
 <span><img src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'></img></span>
 <span><img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'></img></span>
