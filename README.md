@@ -11,192 +11,37 @@
 JS, React JS, NODE, PHP, LARAVEL** - 📫 How to reach me **limon4u714@gmail.com**
 - ⚡ Fun fact **love to smile with new people**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/md-abdul-khalaque" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="md-abdul-khalaque"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://instagram.com/limonislam4u" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="limonislam4u"
-      height="30"
-      width="40"
-  /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://ih1.redbubble.net/image.733277824.7333/st,small,507x507-pad,600x600,f8f8f8.jpg"
-      alt="express"
-      width="50"
-      height="50"
-    />
-  </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://media.licdn.com/dms/image/C5622AQEaSzZNrNFgUQ/feedshare-shrink_800/0/1678383920919?e=1697673600&v=beta&t=9hSrxnEtcCjqpCaYrvc1WuPe5qUm6jI4G542ZUTDNG0"
-      alt="nextjs"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"
-      alt="Laravel"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-      alt="vuejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-
-   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-
  
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
-         alt="postgresql" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-      alt="graphql"
-      width="40"
-      height="40"
-    />
-  </a>
+<h2>About me</h2>
+
+ - Passionate Full Stack Web Developer
+ - Most of my spare time goes in learning new technologies, [Stackoverflow](https://stackoverflow.com/users/16867823/limon-islam) and [LeetCode](https://leetcode.com/limonislam/).
+ - Interested in building website from scratch and dig more into architecture and dynamic.  
+
+<hr>
+<h2>Skills</h2>
+<span><img src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'></img></<span>
+<span><img src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'></img></span>
+<span><img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'></img></span>
+<span><img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'></img></span>
+<span><img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white'></img></span>
+<span><img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'></img></span>
+<span><img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'></img></span>
+<span><img src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge'></img></span>
+<span><img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'></img></span>
+
+<hr>
+<h2>Profiles</h2>
+<a href='https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white'><img src='https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white'></img></a>
+<a href='https://leetcode.com/limonislam'><img src='https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06'></img></a>
+<a href='https://github.com/Limon714'><img src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'></img></a>
+<a href='https://www.hackerrank.com/profile/limonbabu165'><img src='https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white'></img></a>
+<br>
+<h2>Connect with me</h2>
+<p align='center'>
+<a href='https://www.linkedin.com/in/md-abdul-khalaque/'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'></img></a>
+<a href='mailto:limon4u714@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></img></a>
+<a href='https://twitter.com/limon4u714'><img src='https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white'></img></a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/limon4u">
-    <img
-      align="left"
-      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-      height="50"
-      width="210"
-      alt="limon4u"
-  /></a>
-</p>
-<br /><br />
 
