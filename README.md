@@ -23,7 +23,7 @@ JS, React JS, NODE, PHP, LARAVEL** - 📫 How to reach me **limon4u714@gmail.com
 
 <span><img src='https://img.shields.io/badge/PHP-563D7C?&style=for-the-badge&logo=php&logoColor=white'></img></span>
 <span><img src='https://img.shields.io/badge/Laravel-FF0000?&style=for-the-badge&logo=laravel&logoColor=white'></img></span>
-<span><img src='https://img.shields.io/badge/MySQL-F63D7C?&style=for-the-badge&logo=laravel&logoColor=white'></img></span>
+<span><img src='https://img.shields.io/badge/MySQL-F63D7C?&style=for-the-badge&logo=mysql&logoColor=white'></img></span>
 <span><img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'></img></span>
 <span><img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'></img></span>
 <span><img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white'></img></span>
